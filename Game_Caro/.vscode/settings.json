@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "xstring": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}

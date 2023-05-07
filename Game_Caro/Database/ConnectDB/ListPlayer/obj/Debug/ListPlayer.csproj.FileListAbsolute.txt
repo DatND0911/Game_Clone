@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\bin\Debug\ListPlayer.exe.config
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\bin\Debug\ListPlayer.exe
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\bin\Debug\ListPlayer.pdb
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.Form1.resources
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.exe
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ListPlayer\obj\Debug\ListPlayer.pdb

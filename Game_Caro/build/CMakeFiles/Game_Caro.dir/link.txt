@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Game_Caro.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\Game_Caro.dir/objects.a @CMakeFiles\Game_Caro.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Game_Caro.dir/objects.a -Wl,--no-whole-archive -o Game_Caro.exe -Wl,--out-implib,libGame_Caro.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Game_Caro.dir\linklibs.rsp

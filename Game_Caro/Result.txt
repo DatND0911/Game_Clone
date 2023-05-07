@@ -1,0 +1,4 @@
+Player name: Tung; Win match: 1; Lose match: 0; Draw match: 0
+Player name: Son; Win match: 0; Lose match: 1; Draw match: 0
+Player name: nam; Win match: 0; Lose match: 1; Draw match: 0
+Player name: tung; Win match: 1; Lose match: 0; Draw match: 0

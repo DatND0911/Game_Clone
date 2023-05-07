@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\bin\Debug\FindOpponent.exe.config
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\bin\Debug\FindOpponent.exe
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\bin\Debug\FindOpponent.pdb
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.Form1.resources
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.exe
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\FindOpponent\obj\Debug\FindOpponent.pdb

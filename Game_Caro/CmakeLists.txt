@@ -1,0 +1,30 @@
+cmake_minimum_required(VERSION 3.1)
+project(Game_Caro)
+
+# SET(CMAKE_CXX_COMPILER "/usr/bin/g++")
+# set(CMAKE_CXX_STANDARD 17)
+# set(CMAKE_INCLUDE_CURRENT_DIR ON)
+
+# Create a list with all source/header files
+set( project_sources
+   src/main.cpp
+   src/boardstage.cpp
+   src/carocontroller.cpp
+   src/caroview.cpp
+   src/player.cpp
+   src/point.cpp
+)
+
+set( project_headers
+   inc/boardstage.h
+   inc/carocontroller.h
+   inc/caroview.h
+   inc/player.h
+   inc/point.h
+)
+
+# Create executable with all necessary source files
+add_executable(${PROJECT_NAME}
+  ${project_sources}
+  ${project_headers}
+)

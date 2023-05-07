@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Game_Caro.dir\\src\\main.cpp.obj -c C:\\Users\\ADMIN\\Desktop\\FPT\\Game_Caro\\src\\main.cpp",
+  "file": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/src/main.cpp"
+},
+{
+  "directory": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Game_Caro.dir\\src\\boardstage.cpp.obj -c C:\\Users\\ADMIN\\Desktop\\FPT\\Game_Caro\\src\\boardstage.cpp",
+  "file": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/src/boardstage.cpp"
+},
+{
+  "directory": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Game_Caro.dir\\src\\carocontroller.cpp.obj -c C:\\Users\\ADMIN\\Desktop\\FPT\\Game_Caro\\src\\carocontroller.cpp",
+  "file": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/src/carocontroller.cpp"
+},
+{
+  "directory": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Game_Caro.dir\\src\\caroview.cpp.obj -c C:\\Users\\ADMIN\\Desktop\\FPT\\Game_Caro\\src\\caroview.cpp",
+  "file": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/src/caroview.cpp"
+},
+{
+  "directory": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Game_Caro.dir\\src\\player.cpp.obj -c C:\\Users\\ADMIN\\Desktop\\FPT\\Game_Caro\\src\\player.cpp",
+  "file": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/src/player.cpp"
+},
+{
+  "directory": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Game_Caro.dir\\src\\point.cpp.obj -c C:\\Users\\ADMIN\\Desktop\\FPT\\Game_Caro\\src\\point.cpp",
+  "file": "C:/Users/ADMIN/Desktop/FPT/Game_Caro/src/point.cpp"
+}
+]

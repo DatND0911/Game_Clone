@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/FPT/Game_Caro/build/CMakeFiles/Game_Caro.dir
+C:/Users/ADMIN/Desktop/FPT/Game_Caro/build/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/FPT/Game_Caro/build/CMakeFiles/rebuild_cache.dir

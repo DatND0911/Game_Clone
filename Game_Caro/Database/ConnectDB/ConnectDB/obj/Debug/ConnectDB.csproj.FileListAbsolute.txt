@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\bin\Debug\ConnectDB.exe.config
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\bin\Debug\ConnectDB.exe
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.Form1.resources
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.exe
+C:\Users\ADMIN\Desktop\Game_Caro\Database\ConnectDB\ConnectDB\obj\Debug\ConnectDB.pdb
